@@ -1,4 +1,4 @@
-# SRE Take-Home Exercise - Endpoint Availability Monitor
+# SRE Take-Home Exercise
 
 This Python script monitors the availability of all HTTP endpoints in the YAML configuration file. It runs and logs availability results every 15 seconds with necessary constraints.
 
