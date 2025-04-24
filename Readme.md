@@ -6,7 +6,7 @@ This Python script monitors the availability of all HTTP endpoints in the YAML c
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/janeresh/sre-availability-monitor
 cd sre-availability-monitor
 ```
 
